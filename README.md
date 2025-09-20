@@ -79,10 +79,3 @@ func main() {
 ![Casmpy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=casmpy&theme=react-dark)
 ---
 
-### 🎉 Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/{casmpy}/count.svg)
-
----
-
-Thanks for stopping by! Feel free to reach out or collaborate on exciting projects! 🌟
-
